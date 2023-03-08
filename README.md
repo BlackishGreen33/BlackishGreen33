@@ -24,7 +24,7 @@ I am BG and I am currently Learning Web front-end development!
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -37,4 +37,4 @@ I am BG and I am currently Learning Web front-end development!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
