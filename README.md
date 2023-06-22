@@ -19,8 +19,8 @@ I am BG and I am currently Learning Web front-end development!
 - Stable Diffusion  
 
 #### 🌻 I am studying 🌻
-- JavaScript
-- React Framework  
+- TypeScript
+- React Native Framework  
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
