@@ -15,12 +15,16 @@ I am BG and I am currently Learning Web front-end development!
 - [My website](https://github.com/BlackishGreen33) 🚀 *coming soon*
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Stable Diffusion  
+- CMS
+- Sanity
+- Vite
 
 #### 🌻 I am studying 🌻
-- TypeScript
-- React Native Framework  
+- Next.js
+- React Native
+- Vue.js
+- Sass
+- Tailwind CSS
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
