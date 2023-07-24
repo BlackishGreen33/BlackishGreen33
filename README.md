@@ -12,7 +12,7 @@ I am BG and I am currently Learning Web front-end development!
  
 #### 🌱 Things I am currently working on 🌱 : 
 - I'm working on a mini-project for a muxi team 
-- [My website](https://github.com/BlackishGreen33) 🚀 *coming soon*
+- [My website](https://bg-homepage.vercel.app/) 🚀 *coming soon*
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - CMS
