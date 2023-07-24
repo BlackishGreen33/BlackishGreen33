@@ -28,7 +28,9 @@ I am BG and I am currently Learning Web front-end development!
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,webpack,tailwind,sass)](https://skillicons.dev)
 <br/>
