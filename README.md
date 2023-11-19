@@ -28,6 +28,7 @@ I am BG and I am currently Learning Web front-end development!
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 <br/>
@@ -44,5 +45,3 @@ I am BG and I am currently Learning Web front-end development!
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,visualstudio,vscode)](https://skillicons.dev)
 
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
