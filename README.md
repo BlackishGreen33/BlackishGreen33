@@ -4,7 +4,7 @@
 ### This is BlackishGreen33! ✨ 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/BlackishGreen33)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](s5460703@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](s5460703@gmail.com)
 
 Welcome to my GitHub page!  
 I am BG and I am currently Learning Web front-end development!  
