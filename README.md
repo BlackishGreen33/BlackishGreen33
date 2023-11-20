@@ -40,11 +40,11 @@ BlackishGreen33.target = function () {
 #### :computer: Tech Stack :computer: : 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,electron,tailwind,sass,webpack,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nextjs,react,nodejs,electron,tailwind,sass)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,unity,unreal,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack,docker,mysql,firebase,mongodb,unity,unreal)](https://skillicons.dev)
 
 </p>
 
