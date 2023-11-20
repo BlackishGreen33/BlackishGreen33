@@ -25,17 +25,8 @@ BlackishGreen33.target = function () {
 }
 ```
 
- 
-#### 🌱 Things I am currently working on 🌱 : 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
-
-- [MuxiKeStack2.0](https://github.com/MuxiKeStack/muxiK-StackFrontend2.0)
-- [Hubei-KL-AI-IL](https://github.com/Hubei-KL-AI-IL)
-
-#### 🌻 I am studying 🌻
-- React Native
-- Vue.js
 
 #### :computer: Tech Stack :computer: : 
 <p>
