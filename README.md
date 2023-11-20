@@ -28,7 +28,7 @@ BlackishGreen33.target = function () {
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
 
-#### :computer: Tech Stack :computer: : 
+### :computer: 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 :computer:
 <p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs)](https://skillicons.dev)
@@ -39,6 +39,6 @@ BlackishGreen33.target = function () {
 
 </p>
 
-#### 🔥 Profile Views 🔥
+### 🔥 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 V𝒊𝒆𝒘𝒔 🔥
 ![](https://count.getloli.com/get/@BlackishGreen33.github.readme)  
 [![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
