@@ -25,7 +25,7 @@ BlackishGreen33.target = function () {
 }
 ```
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackishGreen33&layout=compact&theme=merko&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackishGreen33&show_icons=true&hide_border=true&theme=merko" />
 
 ### :computer: 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 :computer:
