@@ -5,7 +5,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qFQuQvH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/blackishgreen.su) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BlackishGreen03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BlackishGreen) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](s5460703@gmail.com)  
 [My Website](https://bg-homepage.vercel.app/) 🚀 *coming soon*  
-[My Blog](https://www.blackishgreen.link/) 🚀 *coming soon*
+[My Blog](https://www.blackish-green.link/) 🚀 *coming soon*
 
 *Welcome to my GitHub page!*  
 *I am thrilled to take this opportunity to introduce myself through this README.md.*
